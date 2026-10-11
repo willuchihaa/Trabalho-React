@@ -1,3 +1,6 @@
+EQUIPE: WILLIAM E JARBAS
+
+
 ## INTALAR  
 
 1. Clonar o repositório:
